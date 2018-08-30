@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="8193.2" systemVersion="15A262e" minimumToolsVersion="Xcode 4.3">
+    <entity name="Rang" representedClassName="Rang" syncable="YES">
+        <attribute name="searchLimit" optional="YES" attributeType="Integer 16" defaultValueString="10" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Rang" positionX="27" positionY="63" width="128" height="60"/>
+    </elements>
+</model>
